@@ -11,3 +11,11 @@
                               |___/                    |_|    
 ```
 
+## Building now
+
+- **[Remote Arc](https://github.com/yaohuangguan/remote-arc)** — controlled remote computer access for AI via MCP, with explicit permissions and cross-platform device support.
+- **[react-dispatch](https://github.com/yaohuangguan/react-dispatch)** — tiny, dependency-free, type-safe event dispatcher for React, TypeScript, Node.js and browsers. [npm](https://www.npmjs.com/package/react-dispatch)
+- **[Kiwi Lens](https://github.com/yaohuangguan/kiwi-lens)** — route-aware navigation experiments for New Zealand.
+
+> I build practical developer tools, AI/MCP infrastructure and cross-platform products. If something here is useful, feedback and contributions are welcome.
+
