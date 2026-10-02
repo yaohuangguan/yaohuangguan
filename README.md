@@ -1,21 +1,31 @@
+# Sam Yao
 
- 
-![](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![](http://hits.dwyl.com/xrkffgg/xrkffgg.svg)
+**Full-stack engineer · AI/MCP infrastructure · developer tools · cross-platform products**
 
-```
-  _   _                             _                         
- | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
- |  \| |/ _ \ \ / / _ \ '__|  / _` | \ \ / / _ \ | | | | '_ \ 
- | |\  |  __/\ V /  __/ |    | (_| | |\ V /  __/ | |_| | |_) |
- |_| \_|\___| \_/ \___|_|     \__, |_| \_/ \___|  \__,_| .__/ 
-                              |___/                    |_|    
-```
+Auckland, New Zealand · [samyao.me](https://samyao.me)
+
+I build practical software across web, mobile, cloud and AI tooling — with a focus on products that are useful outside the demo.
 
 ## Building now
 
-- **[Remote Arc](https://github.com/yaohuangguan/remote-arc)** — controlled remote computer access for AI via MCP, with explicit permissions and cross-platform device support.
-- **[react-dispatch](https://github.com/yaohuangguan/react-dispatch)** — tiny, dependency-free, type-safe event dispatcher for React, TypeScript, Node.js and browsers. [npm](https://www.npmjs.com/package/react-dispatch)
-- **[Kiwi Lens](https://github.com/yaohuangguan/kiwi-lens)** — route-aware navigation experiments for New Zealand.
+| Project | What it is |
+| --- | --- |
+| [**Remote Arc**](https://github.com/yaohuangguan/remote-arc) | Controlled remote computer access for ChatGPT, Claude, Codex and MCP clients, with explicit device permissions and local safety boundaries. |
+| [**Kiwi Lens**](https://github.com/yaohuangguan/kiwi-lens) | New Zealand-first navigation and road intelligence with Route Watch, NZTA camera awareness, parking and a Plus driving layer. |
+| [**Orion**](https://github.com/yaohuangguan/orion-frontend) | Bilingual digital garden, engineering portfolio and private personal operating system. |
+| [**react-dispatch**](https://github.com/yaohuangguan/react-dispatch) | Tiny, dependency-free, type-safe event dispatcher for TypeScript, React, Node.js and browsers. |
 
-> I build practical developer tools, AI/MCP infrastructure and cross-platform products. If something here is useful, feedback and contributions are welcome.
+## Current focus
 
+`TypeScript` · `React` · `Node.js` · `Flutter` · `Java / Spring` · `Cloudflare` · `MCP`
+
+- AI systems that can act on real devices without giving up user control
+- product-quality mobile and web experiences
+- reliable automation, observability and security boundaries
+- open-source tools with small APIs and practical use cases
+
+## Open source
+
+I’m actively maintaining the projects above and contributing fixes upstream when I run into issues in the tools I use.
+
+Feedback, issues and discussions are welcome.
